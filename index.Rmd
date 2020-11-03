@@ -1,0 +1,49 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+    
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+```{r}
+rnorm(10)
+```
+
+## Links to other websites
+
+Let's link to sueful tools for data science:
+
+* [Google](https://www.google.com/)
+* [P8105](https://www.p8105.com)
+* [Fonts](https://fontawesome.com/icons?from=io)
+* [Themes](https://bootswatch.com/3/)
+
+## Local image
+
+Here is me:
+
+![](images/thiago.jpg)
+Alternatively you can use html language to edit images (easier):
+
+<img src="images/thiago.jpg" style="width:75%">
+
+## Link to page within the site
+
+[About me](about.html)
+
+## Quarterly Results {.tabset .tabset-fade}
+
+### By Product
+
+(tab content)
+
+### By Region
+
+(tab content)
