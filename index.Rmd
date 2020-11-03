@@ -1,10 +1,11 @@
 ---
-title: "Thiago deAraujo, MD PhD"
+title: "Thiago de Araujo, MD PhD"
 output: 
   html_document:
     after_body: footer.html
 ---
-<img src="images/me.jpg" style="width:23%;padding-right: 20px" align="left">
+
+<img src="images/WEB_me.jpg" style="width:30%;padding-right: 20px" align="left">
 
 ### Hello,
 
@@ -18,8 +19,11 @@ My research interests are clinical outcomes and de-implementation science, as we
 
 I live with my dear wife, Rafaela, and our dog, Zelda. We enjoy spending time in parks, traveling, bindgewatching Netflix, and playing boardgames.
 
+&nbsp;
+
+
 In [this page](resume.html) you can find my academic and professional experiences. 
 
 &nbsp;
 <hr />
-<p style="text-align: center;"><a href="https://www.google.com.br/maps/place/R.+Vasco+da+Gama,+214+-+Bom+Fim,+Porto+Alegre+-+RS,+90420-110/@-30.0316636,-51.212298,17z/data=!3m1!4b1!4m5!3m4!1s0x951979b2653d7f97:0xbe06209eedbc311e!8m2!3d-30.0316683!4d-51.210104">Porto Alegre, RS-Brazil</a> | <a href="https://www.google.com.br/maps/place/354+E+91st+St,+New+York,+NY+10128,+EUA/@40.7800894,-73.9496929,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258aff9d207a5:0xd9768983e52be063!8m2!3d40.7800854!4d-73.9474989">New York, NY-USA</a></p>
+<p style="text-align: center;"><a href="https://www.google.com/maps/place/HCPA+-+Hospital+de+Cl%C3%ADnicas+de+Porto+Alegre/@-30.0386844,-51.208619,17z/data=!3m1!4b1!4m5!3m4!1s0x9519784ebb3943df:0xe484226d1bf56a44!8m2!3d-30.0386891!4d-51.206425">Porto Alegre, RS-Brazil</a> | <a href="https://www.google.com/maps/place/722+W+168th+St,+New+York,+NY+10032,+EUA/data=!4m2!3m1!1s0x89c2f69bc090f8cb:0x4c1891b68d80a519?sa=X&ved=2ahUKEwjb5oLjxebsAhWoD7kGHfr4DkQQ8gEwAHoECAQQAQ">New York, NY-USA</a></p>
