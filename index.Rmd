@@ -2,12 +2,9 @@
 title: "Thiago deAraujo, MD PhD"
 output: 
   html_document:
-    code_folding: hide
-
-    theme: cerulean
     after_body: footer.html
 ---
-<img src="images/me.jpg" style="width:25%;padding-right: 20px" align="left">
+<img src="images/me.jpg" style="width:23%;padding-right: 20px" align="left">
 
 ### Hello,
 
