@@ -1,49 +1,28 @@
 ---
-title: "My awesome website"
+title: "Thiago deAraujo, MD PhD"
 output: 
   html_document:
     code_folding: hide
-    toc: true
-    toc_float: true
-    
+
+    theme: cerulean
+    after_body: footer.html
 ---
+<img src="images/me.jpg" style="width:25%;padding-right: 20px" align="left">
 
-# This is Jeff's awesome website
+### Hello,
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+I am a Brazilian General Surgeon, currently pursuing a Masters of Public Health from Columbia University Mailman SPH's Biostatistics Department. 
 
-```{r}
-rnorm(10)
-```
+I am also a General Surgery Residency applicant in this Match cycle, looking towards a career as an academic surgeon in the U.S.
 
-## Links to other websites
+My clinical interest lies in the intersection between surgical oncology and hepatobiliary pancreatic surgery.
 
-Let's link to sueful tools for data science:
+My research interests are clinical outcomes and de-implementation science, as well as surgical education.
 
-* [Google](https://www.google.com/)
-* [P8105](https://www.p8105.com)
-* [Fonts](https://fontawesome.com/icons?from=io)
-* [Themes](https://bootswatch.com/3/)
+I live with my dear wife, Rafaela, and our dog, Zelda. We enjoy spending time in parks, traveling, bindgewatching Netflix, and playing boardgames.
 
-## Local image
+In [this page](resume.html) you can find my academic and professional experiences. 
 
-Here is me:
-
-![](images/thiago.jpg)
-Alternatively you can use html language to edit images (easier):
-
-<img src="images/thiago.jpg" style="width:75%">
-
-## Link to page within the site
-
-[About me](about.html)
-
-## Quarterly Results {.tabset .tabset-fade}
-
-### By Product
-
-(tab content)
-
-### By Region
-
-(tab content)
+&nbsp;
+<hr />
+<p style="text-align: center;"><a href="https://www.google.com.br/maps/place/R.+Vasco+da+Gama,+214+-+Bom+Fim,+Porto+Alegre+-+RS,+90420-110/@-30.0316636,-51.212298,17z/data=!3m1!4b1!4m5!3m4!1s0x951979b2653d7f97:0xbe06209eedbc311e!8m2!3d-30.0316683!4d-51.210104">Porto Alegre, RS-Brazil</a> | <a href="https://www.google.com.br/maps/place/354+E+91st+St,+New+York,+NY+10128,+EUA/@40.7800894,-73.9496929,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258aff9d207a5:0xd9768983e52be063!8m2!3d40.7800854!4d-73.9474989">New York, NY-USA</a></p>
