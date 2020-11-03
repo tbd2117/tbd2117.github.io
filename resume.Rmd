@@ -5,6 +5,7 @@ output:
     toc: true
     toc_float: true
 ---
+<br>
 
 ### Education
 
@@ -152,4 +153,3 @@ Webster RS, Goldoni BD, Netto R, Rech D, **de Araujo TB**, Ely PB.  Breast recon
 | Native Fluency in Portuguese. 
 | Highly proficient / Full professional proficiency in English. 
 | Working proficiency in Spanish.
-
