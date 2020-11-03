@@ -1,0 +1,85 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+```{r}
+data(ny_noaa)
+
+ny_noaa =
+ny_noaa %>%
+  drop_na() %>% 
+  separate(date, into = c("year", "month", "day"), sep = "-", convert = TRUE) %>% 
+  mutate(
+    prcp = prcp/10,
+    tmax = as.numeric(tmax),
+    tmin = as.numeric(tmin),
+    tmax = tmax/10,
+    tmin = tmin/10,
+    year = as.numeric(year)
+    ) %>% 
+  filter(year >= 2000)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+ny_noaa %>%
+  filter(year == 2010) %>% 
+  group_by(id, month) %>% 
+  mutate(
+    mean_tmax = round(mean(tmax), digits = 2),
+    month = month.name[month],
+    month = factor(month),
+    month = forcats::fct_relevel(month, c("January", "February")), 
+    text_label = str_c("Station ID: ", id, "\nMean Max Temperature: ", mean_tmax, "ºC")
+  ) %>%
+  plot_ly(x = ~month, y = ~mean_tmax, type = "scatter", color = ~id, text = ~text_label) %>% 
+  layout(showlegend = FALSE)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+ny_noaa %>% 
+  filter(snow <100, snow > 0) %>% 
+  group_by(year, id) %>% 
+  mutate(
+    mean_snow = round(mean(snow), digits = 2),
+    text_label = str_c("Station ID: ", id, "\nAverage Snowfall: ", mean_snow, "mm")
+  ) %>% 
+  plot_ly(x = ~year, y = ~mean_snow, type = "box", text = ~text_label)
+```
+
+### Chart C
+
+```{r}
+ny_noaa %>% 
+    group_by(year, id) %>% 
+    mutate(
+      prcp = prcp*10,
+      max_prcp = max(prcp),
+      id = fct_reorder(id, max_prcp)
+    ) %>% 
+    tally(max_prcp > 500) %>% 
+  plot_ly(x = ~year, y = ~n, color = ~id, type = "bar", colors = "viridis")
+```
+

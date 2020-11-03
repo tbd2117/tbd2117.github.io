@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Problem 2"
-      href: plotly.html
+      href: dashboard.html 
     - text: "Resume"
       href: resume.html
     - icon: fa-envelope fa-lg
