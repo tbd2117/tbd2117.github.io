@@ -32,8 +32,8 @@ ny_noaa %>%
     year = as.numeric(year)
     ) %>%
     filter(
-      id %in% sample(unique(id), 5),
-      year >= 2000
+      year >= 2000,
+      id %in% sample(unique(id), 5)
     )
 ```
 
