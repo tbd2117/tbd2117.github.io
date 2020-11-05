@@ -52,7 +52,7 @@ ny_noaa %>%
   ) %>%
     plot_ly(
       x = ~date, y= ~mean_tmax, size = ~prcp, color = ~id, text = ~text_label, 
-      type = "scatter", mode = "markers"
+      type = "scatter", mode = "markers", colors = "viridis"
     ) %>% 
     layout(
       xaxis = list(title = "Date"),
