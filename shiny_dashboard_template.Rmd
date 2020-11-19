@@ -1,0 +1,52 @@
+---
+title: "Shiny Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {.sidebar}
+-----------------------------------------------------------------------
+
+```{r}
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+library(wordcloud2)
+shinyApp(shinyUI(
+  fluidPage(wordcloud2Output("word_cloud"))),
+  shinyServer(function(input, output) {
+    output$word_cloud = renderWordcloud2({
+      wordcloud2(demoFreq)
+    })
+  })
+)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
