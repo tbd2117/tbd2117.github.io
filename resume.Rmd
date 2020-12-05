@@ -71,13 +71,9 @@ output:
 |       *	Developing multilevel models for assessing de-implementation of several different clinical practices in surgical oncology
 | 	
 | **Columbia University Medical Center, Department of Anesthesiology**, New York, NY
-|       *Research Assistant*	[Oct 2019 - currently]{style="float:right"}
+|       *Research Assistant*	[Oct 2019 - May 2020]{style="float:right"}
 |       *	Research assistant to Dr. George Hasko, MD, PhD.
 |       *	Conducting survival surgery for experiments on A2A Adenosine Receptors signaling in sepsis
-| 	
-|       *Clinical Research Assistant*	[June 2019 - currently]{style="float:right"}
-|       *	Clinical Research assistant to Dr. Gebhard Wagener, MD.
-|       *	Conducting subject’s enrollment and sample processing for a clinical study assessing A2A Adenosine Receptors signaling in septic patients
 | 	
 | **Urology Department, Hospital de Clínicas de Porto Alegre**, Porto Alegre, RS - Brazil
 |       *Research and Statistics Consultant*	[Mar 2017 – Dec 2017]{style="float:right"}
@@ -98,9 +94,9 @@ output:
 
 ### Publications
 
-Gleisner, AL, Moss A, Friedman C, Suresh K, Grunwald G, Torphy RJ, Leonard LD, Colborn K, Ahrendt G, Tevis S, Christian N, Abud VL, **de Araujo TB**, Thieu D, Glorioso TJ, Daugherty S. De-implementation of axillary dissection in women with breast cancer is largely driven by contextual effects. Annals of Surg. 2020 (Provisionally Accepted)
+Gleisner, AL, Moss A, Friedman C, Suresh K, Grunwald G, Torphy RJ, Leonard LD, Colborn K, Ahrendt G, Tevis S, Christian N, Abud VL, **de Araujo TB**, Thieu D, Glorioso TJ, Daugherty S. De-implementation of axillary dissection in women with breast cancer is largely driven by contextual effects. Annals of Surg. 2020, Dec; (Accepted)
 
-**de Araujo TB**, Jotz GP, Zaki CH, Mantelli RA, Fernandes VF, Pretto GG, Volkweis BS, Corso CO, & Cavazzola LT.. Intraoperative Cholangiography with Filling Defects: Comparative Complication Analysis of Postoperative Transcystic Duct (TCD) Catheter Maintenance.[Surg Endosc](https://doi.org/10.1007/s00464-020-08133-y) (Published 11/05/2020)
+**de Araujo TB**, Jotz GP, Zaki CH, Mantelli RA, Fernandes VF, Pretto GG, Volkweis BS, Corso CO, & Cavazzola LT.. Intraoperative Cholangiography with Filling Defects: Comparative Complication Analysis of Postoperative Transcystic Duct (TCD) Catheter Maintenance.[Surg Endosc](https://doi.org/10.1007/s00464-020-08133-y). Ahead of print (Published 11/05/2020). PMID: [33151354](https://pubmed.ncbi.nlm.nih.gov/33151354).
 
 Bortolini T, Lucena IRS, da Silva Batezini NS, Rosito TE, **de Araujo TB**, Carneiro BB, Tavares PM, Souza PC, Neto BS. Can dynamic ultrasonography replace urodynamics in the follow-up of patients with myelomeningocele? A prospective concurrent study. [Neurology and Urodynamics](https://doi.org/10.1002/nau.23846). 2019, Jan; 83(1): 278-284.PMID:[30350876](https://pubmed.ncbi.nlm.nih.gov/30350876/).
 
