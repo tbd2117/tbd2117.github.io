@@ -35,9 +35,9 @@ output:
 &nbsp;
 
 
-### Surgical Training
+### Residency Training
 
-| **University of Colorado Anschutz Medical Campus**, Aurora,CO
+| **University of Colorado**, Denver,CO
 |      *General Surgery Residency* [Jun 2021 – current]{style="float:right"}
 |           Preliminary Position
 
@@ -52,10 +52,21 @@ output:
 
 ### Professional
 
+| **General Surgeon**	[Mar 2019 – Jul 2019]{style="float:right"}
+|       _Urgent Care Unit(UPA 24h), Gravataí_, RS-Brazil	
+|           Evaluated patients and diagnosed and managed surgery-related disorders in a Level IV trauma center/emergency facility. Conducted surgical consultations and performed ambulatory elective surgical procedures.
+| 
+| **Emergency Department Physician**	[Dec 2015 – Jul 2019]{style="float:right"}
+| 	    _Instituto de Cardiologia – Hospital de Viamão_, Viamão, RS-Brazil
+| 	        Evaluated patients and diagnosed and managed cases in a Level II emergency reference center. Treated a high proportion of poor and socially neglected patients who had receive care solely based on the national universal health system. Progressed from low- to high-complexity cases and the emergency room, to step-down secondary unit, to ICU backup physician, varying from one 12-hour shift per week to 80 hours per week.
+|
 | **Second Lieutenant Medical Officer**	[Mar 2016 – Feb 2017]{style="float:right"}
 | 	    _Brazilian Army – 3rd Engineering Battle Command_, Cachoeira do Sul, RS-Brazil
 | 	        Chief Medical Officer for the 3rd Engineering Battle Command. Provided health care to 3,000 service members. Performed general medical evaluations, diagnoses, and treatment, medical audits, and military documentation review. Supervised missions and training and provided technical advice in legal cases.
 |
+| **Emergency Department Physician**	[Mar 2016 – Feb 2017]{style="float:right"}
+|       _Hospital de Caridade e Beneficência_, Cachoeira do Sul, RS-Brazil	
+|           Evaluated, diagnosed, and managed cases in a Level III emergency regional reference center.
 
 &nbsp;
 
@@ -110,7 +121,7 @@ Webster RS, Goldoni BD, Netto R, Rech D, **de Araujo TB**, Ely PB.  Breast recon
 ### Teaching, Volunteer, and Leadership
 
 | **Urgent Care Unit (UPA 24h) Viamão**, Viamão, Brazil
-|       Volunteer Junior General Surgeon [Aug 2018 - Jul 2019]{style="float:right"}
+|       Volunteer General Surgeon [Aug 2018 - Jul 2019]{style="float:right"}
 |
 | **Hospital de Clínicas de Porto Alegre**, Porto Alegre, RS-Brazil
 |       Instructor, Central Venous Catheter Institutional Training – Instructor [Mar - May 208]{style="float:right"}
@@ -139,7 +150,8 @@ Webster RS, Goldoni BD, Netto R, Rech D, **de Araujo TB**, Ely PB.  Breast recon
 ### Additional Information
 
 | Software
-|    R, SAS, IBM SPSS, MySQL, Microsoft Access 
+|    Advanced: SAS, IBM SPSS, MS Office 
+|    Beginner: R
 | 
 | Native Fluency in Portuguese. 
 | Highly proficient / Full professional proficiency in English. 
